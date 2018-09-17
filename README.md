@@ -6,9 +6,9 @@
 
 
 Benefits of **m u g   s h a r e**
-- Financial savings on cups over time
-- Ecological footprint reduced
-- Alignment with UBC ZWAC
+- Financial savings on cups over time ($0.15 per cup+sleeve+lid usually)
+- Ecological footprint of a reusable mug is lower than single use after 6 uses
+- Alignment with UBC Zero Waste Action Plan
 - ALignment with City of Vancouver _Single-Use Item Reduction Strategy_
 
 ### Support or Contact
