@@ -1,12 +1,20 @@
-## MUG SHARE
-
-You can use the [editor on GitHub](https://github.com/MugShare/mugshare.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### MUG SHARE
+#Radical Reuse for Urban Life
 
-Radical Reuse for Urban Life
+**m u g   s h a r e** is a network of cafes who care about their environmental impact. We provide beautiful, reusable vessels so people can enjoy their coffee to-go without creating waste.
+
+
+Benefits of **m u g   s h a r e**
+- Financial savings on cups over time
+- Ecological footprint reduced
+- Alignment with UBC ZWAC
+- ALignment with City of Vancouver _Single-Use Item Reduction Strategy_
+
+### Support or Contact
+
+For more information, or if you operate a cafe and would like to partner with us, email [Link](mailto:mugshareubc@gmail.com)
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +33,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MugShare/mugshare.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
