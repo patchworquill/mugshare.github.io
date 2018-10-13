@@ -1,5 +1,4 @@
 ---
-published: false
 
 ---
 ![](/uploads/teal-mugshare_rebrand_5x3_font-only.png)
