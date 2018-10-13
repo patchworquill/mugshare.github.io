@@ -10,4 +10,5 @@ fields:
 - type: file
   default: "/uploads/Screen Shot 2018-10-01 at 1.33.16 PM.png"
 pages:
+- _posts/home.md
 - home.md
