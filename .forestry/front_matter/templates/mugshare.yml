@@ -2,13 +2,7 @@
 label: MugShare
 hide_body: false
 is_partial: false
-fields:
-- type: file
-  default: "/uploads/Screen Shot 2018-10-01 at 1.32.51 PM.png"
-- type: file
-  default: "/uploads/Screen Shot 2018-10-01 at 1.33.05 PM.png"
-- type: file
-  default: "/uploads/Screen Shot 2018-10-01 at 1.33.16 PM.png"
+fields: []
 pages:
 - _posts/home.md
 - home.md
